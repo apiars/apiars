@@ -1,5 +1,10 @@
 # apiars
 
+![License](https://img.shields.io/badge/license-AGPL--3.0-blue.svg)
+![Version](https://img.shields.io/badge/version-24.1.0-green.svg)
+![Node](https://img.shields.io/badge/node-%E2%89%A514.x-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-stable-success.svg)
+
 **apiars** is an API Fuzzing & Security Engine for Postman / Newman,
 designed for advanced API testing, security validation, and CI/CD integration.
 
